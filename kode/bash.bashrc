@@ -1,17 +1,17 @@
 command_not_found_handle() {
  /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-PS1='\033[1;34m\]╭───\[\033[1;31m\]≼\[\033[1;33m\]H.Z.sA\[\033[1;34m\]•\[\033[1;30m\]\w\[\033[1;31m\]≽
+PS1='\033[1;34m\]╭───\[\033[1;31m\]≼\[\033[1;33m\]HZsA\[\033[1;34m\]•\[ \033[1;30m\]\w\[\033[1;31m\]≽
 \[\033[1;34m\]╰──╼\[\033[1;31m\]✠\[\033[1;32m\] '
 echo -e "\e[96m"
 clear
 echo""
 echo""
+gema""
 echo""
 echo""
-echo""
-echo""
-echo""
+gema""
+gema""
 echo""
 echo""
 echo""
