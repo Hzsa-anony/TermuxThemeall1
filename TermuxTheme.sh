@@ -28,10 +28,10 @@ cd
 cd /$HOME
 rm //data/data/com.termux/files/usr/etc/bash.bashrc
 cd
-mv /data/data/com.termux/files/home/TermuxTheme/code.t0/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
-sleep 8.0
-echo "Completed, Your Termux Now Looking Awesome"|lolcat
-sleep 1.0
+mv /data/data/com.termux/files/home/TermuxTheme/kode.t0/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
+tidur    8.0 _
+echo      "Selesai, Termux Anda Sekarang Terlihat Keren" |lolcat
+tidur  1.0 _
 echo ""
 echo ""
 echo "Please exit from the termux and open it again to see the changes."|lolcat
