@@ -28,8 +28,8 @@ cd
 cd /$HOME
 rm //data/data/com.termux/files/usr/etc/bash.bashrc
 cd
-mv /data/data/com.termux/files/home/TermuxTheme/kode.t0/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
-tidur    8.0 _
+mv /data/data/com.termux/files/home/TermuxThemeall1/kode.t0/bash.bashrc //data/data/com.termux/files/usr/etc/bash.bashrc
+tidur           8.0 _
 echo      "Selesai, Termux Anda Sekarang Terlihat Keren" |lolcat
 tidur  1.0 _
 echo ""
